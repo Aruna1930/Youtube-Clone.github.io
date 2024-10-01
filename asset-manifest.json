@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Youtube-Clone.github.io/static/css/main.e11847a0.css",
+    "main.js": "/Youtube-Clone.github.io/static/js/main.21a13b18.js",
+    "index.html": "/Youtube-Clone.github.io/index.html",
+    "main.e11847a0.css.map": "/Youtube-Clone.github.io/static/css/main.e11847a0.css.map",
+    "main.21a13b18.js.map": "/Youtube-Clone.github.io/static/js/main.21a13b18.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e11847a0.css",
+    "static/js/main.21a13b18.js"
+  ]
+}
